@@ -96,4 +96,5 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
 
 ## Author
 
-Submitted as part of the Novexa Technologies Data Analysis internship task.
+**Lovely Sharma**
+Data Analysis Intern, Novexa Technologies.
