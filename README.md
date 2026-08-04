@@ -1,4 +1,4 @@
-# Student Performance — Data Analysis (Task 1)
+# Student Performance — Data Analysis 
 
 Exploratory data analysis on a Students Performance dataset (math/reading/writing scores,
 plus demographic and behavioral features like test prep, parental education, study hours,
