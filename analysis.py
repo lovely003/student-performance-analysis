@@ -1,11 +1,3 @@
-"""
-analysis.py
------------
-End-to-end EDA on the Students Performance dataset.
-Run this to regenerate every chart in /visualizations and to print the
-same stats that appear in the notebook / report.
-"""
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
